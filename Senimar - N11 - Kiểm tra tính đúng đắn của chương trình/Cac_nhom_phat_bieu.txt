@@ -1,0 +1,5 @@
+Các nhóm trả lời câu hỏi
+- Câu hỏi: Test case là gì? (nhóm 14, 3, 6)
+- Câu hỏi: Tại sao phải tạo test case? (nhóm 6, 14)
+- Câu hỏi: Thế nào là một chương trình hiệu quả? (nhóm 13)
+- Áp dụng và bài toán (nhóm 1)
